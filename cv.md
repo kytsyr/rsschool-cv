@@ -12,7 +12,6 @@ Engineer, junior frontend developer.
 * JavaScript
 * SQL
 * HTML & CSS
-* React
 * Python
 #### Code example 
 * Task from codewars.com
@@ -24,6 +23,8 @@ Engineer, junior frontend developer.
 #### Employment
 * 2020-2022 PJSC Sberbank, Junior Frontend developer 
 #### NEFU - engineer, RS School - Front-end courses (in progress), LLC "Netology" - Python, Data science courses (in progress)
+
+
 #### Languages 
 * Sakha - native
 * Russian - fluent 
