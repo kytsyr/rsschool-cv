@@ -18,8 +18,9 @@ Engineer, junior frontend developer.
 
 
    function multiply(a, b){
-   return a * b;
-}
+   return a * b;}
+   
+   
 #### Employment
 * 2020-2022 PJSC Sberbank, Junior Frontend developer 
 #### NEFU - engineer, RS School - Front-end courses (in progress), LLC "Netology" - Python, Data science courses (in progress)
